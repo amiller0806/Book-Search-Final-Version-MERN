@@ -53,7 +53,7 @@ Due to complications with incorrect versions for the required packages on my old
 
 ## Commit history Link for previous repo
 # Note: Please see the commit history fort this repository as well 
-https://github.com/amiller0806/Book-Search-Engine-/commits/main 
+[Github Original Commit History] https://github.com/amiller0806/Book-Search-Engine-/commits/main 
   ### Contribution
   Ariel Miller 
 
@@ -67,7 +67,7 @@ https://github.com/amiller0806/Book-Search-Engine-/commits/main
   ### Tests
 There are no tests for this application. 
   ### Github Repository
-[Github Repository](https://github.com/amiller0806/Book-Search)
+[Github Repository](https://github.com/amiller0806/Book-Search-Final-Version-MERN )
 
 ### Deployed Application 
 Link: https://serene-earth-32002.herokuapp.com/
